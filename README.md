@@ -1,1 +1,2 @@
- SpaceClient.github.io
+SpaceClient.github.io
+spaceclient.github.io/License.txt
